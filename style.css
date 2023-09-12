@@ -1,0 +1,300 @@
+body {
+    color: #1c1e21;
+	font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+	background-color: #f0f2f5;
+	margin: 0px 0px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ko2f4pd2 { 
+    width: 100%;
+	padding-top: 70px;
+	padding-bottom: 110px;
+}
+
+.ko2d447f { 
+    width: 980px;
+	margin: 0px auto;
+	display: flex;
+	flex-direction: row;
+}
+
+.ko2d76af {
+	width: 580px;
+    padding-right: 32px; 
+	display: inline-block;
+}
+
+.ko2dc3ja {
+	padding: 112px 0px 16px 0px;
+}
+
+.ko2dczdi {
+	height: 106px;
+	margin: -28px;
+}
+
+.ko2dezyn {
+	font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+/**/
+.ko2da4wv {
+	max-width: 400px;
+	display: inline-block;
+}
+
+.ko2djsdb {
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin-top: 40px;
+    padding: 15px 15px;
+}
+
+/* Inputs */
+.ko2dueyv {
+	width: 100%;
+	color: #1d2129;
+	font-size: 17px;
+    padding: 14px 16px;
+	border-radius: 6px;
+	border: 1px solid #dddfe2;
+	line-height: 16px;
+    vertical-align: middle;
+	margin-bottom: 12px;
+	outline: none;
+}
+
+.ko2dww2v {
+	width: 100%;
+	color: #1d2129;
+	font-size: 17px;
+    padding: 14px 16px;
+	border-radius: 6px;
+	border: 1px solid #dddfe2;
+	line-height: 16px;
+    vertical-align: middle;
+	margin-bottom: 15px;
+	outline: none;
+}
+
+/* Btn login */
+.ko2e4izi {
+	width: 100%;
+	margin-bottom: 16px;
+}
+
+.ko2dzcvb {
+	width: 100%;
+	color: #ffffff;
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+    border-radius: 6px;
+    line-height: 48px;
+    padding: 0px 16px;
+	background-color: #1877f2;
+    justify-content: center;
+	cursor: pointer;
+	outline: none;
+}
+
+.ko2dzcvb:hover {
+	background-color: #166fe5;
+}
+
+/**/
+.ko2e6bwu {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #dadde1;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.ko2e6udj {
+	width: 100%;
+	color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+	text-decoration: none;
+}
+
+/* Btn crear */
+.ko2edoae {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.ko2eduzq {
+	width: auto;
+	color: #ffffff;
+	border: none;
+	font-size: 17px;
+	font-weight: bold;
+	text-align: center;
+    border-radius: 6px;
+    line-height: 48px;
+    padding: 0px 16px;
+	text-decoration: none;
+	background-color: #42b72a;
+    justify-content: center;
+	display: inline-block;
+	cursor: pointer;
+	outline: none;
+}
+
+.ko2eduzq:hover {
+	background-color: #36a420;
+	text-decoration: none;
+}
+
+/**/
+.ko2ekc3a {
+	width: 100%;
+	color: #1c1e21;
+	font-size: 14px;
+    font-weight: normal;
+	text-align: center;
+	margin-top: 28px;
+}
+
+.ko2emkr2 {
+    font-weight: 600;
+}
+
+/**/
+.ko2evo5a {
+	width: 100%;
+	padding: 10px 0px 20px 0px;
+	background-color: #ffffff;
+}
+
+.ko2exb7q {
+	width: 980px;
+	color: #737373;
+    margin: 0px auto;
+}
+
+.ko2f1a65 {
+    display: flex;
+    flex-wrap: wrap;
+	align-items: center;
+	border-bottom: 1px solid #dddfe2;
+	padding-bottom: 8px;
+	margin-bottom: 8px;
+}
+
+.ko2fa81a {
+	color: #385898;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+.ko2ft5pp {
+	height: 18px;
+    color: #4b4f56;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #f5f6f7;
+    border: 1px solid #ccd0d5;
+    line-height: 16px;
+    padding: 0px 10px;
+    margin-left: 10px;
+    border-radius: 2px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/**/
+.ko2fhf2l {
+    display: flex;
+    flex-wrap: wrap;
+	align-items: center;
+	padding-bottom: 8px;
+	margin-bottom: 8px;
+}
+
+.ko2fhmfh {
+	color: #385898;
+	line-height: 1.6;
+	padding-right: 20px;
+	text-decoration: none;
+}
+
+/**/
+.ko2fq9it {
+	color: #737373;
+}
+
+@media (max-width:900px){
+	
+	.ko2f4pd2 {
+		width: 100%;
+		padding-top: 15px;
+		padding-left: 15px;
+        padding-right: 15px;
+	}
+	
+	.ko2d447f {
+		width: 100%;
+		max-width: 400px;
+		text-align: center;
+		flex-direction: column;
+	}
+	
+	.ko2d76af {
+		width: 100%;
+		padding-right: 0px;
+	}
+	
+	.ko2da4wv {
+		max-width: 400px;
+		margin: 0px auto;
+	}
+	
+	.ko2djsdb {
+		margin-top: 30px;
+	}
+
+	.ko2dc3ja {
+		padding: 0px 0px 16px 0px;
+	}
+	
+	.ko2dczdi {
+		height: 90px;
+	}
+	
+	.ko2dezyn {
+		width: 100%;
+		font-size: 22px;
+		font-weight: normal;
+		line-height: 24px;
+	}
+	
+	.ko2exb7q {
+		width: 100%;
+		max-width: 400px;
+		margin: 0px auto;
+	}
+	
+	.ko2evo5a {
+		padding: 15px 15px 20px 15px;
+	}
+	
+}
